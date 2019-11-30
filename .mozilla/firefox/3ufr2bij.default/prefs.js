@@ -17,7 +17,7 @@ user_pref("app.update.lastUpdateTime.browser-cleanup-thumbnails", 1575098856);
 user_pref("app.update.lastUpdateTime.experiments-update-timer", 1575099096);
 user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1575098976);
 user_pref("app.update.lastUpdateTime.telemetry_modules_ping", 1574952510);
-user_pref("app.update.lastUpdateTime.xpi-signature-verification", 1574952390);
+user_pref("app.update.lastUpdateTime.xpi-signature-verification", 1575099456);
 user_pref("browser.bookmarks.restore_default_bookmarks", false);
 user_pref("browser.cache.disk.capacity", 358400);
 user_pref("browser.cache.disk.filesystem_reported", 1);

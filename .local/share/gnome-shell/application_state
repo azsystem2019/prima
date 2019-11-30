@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="firefox-esr.desktop" open-window-count="1" score="311" last-seen="1575098969"/>
+    <application id="firefox-esr.desktop" open-window-count="1" score="344" last-seen="1575099345"/>
     <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="18" last-seen="1574970229"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="551" last-seen="1575098909"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="3" score="570" last-seen="1575099338"/>
     <application id="leafpad.desktop" open-window-count="0" score="1" last-seen="1574967378"/>
   </context>
 </application-state>
